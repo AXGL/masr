@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "novelName": "稀薄",
+  "projectPath": "./chinese-novelist/20261118-162841-稀薄",
+  "totalChapters": 10,
+  "minWordsPerChapter": 2000,
+  "createdAt": "2026-11-18T16:30:30.787520Z",
+  "updatedAt": "2026-11-18T16:43:08.713340+00:00",
+  "status": "completed",
+  "writingMode": "serial",
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "title": "零额",
+      "filePath": "第01章-零额.md",
+      "status": "completed",
+      "wordCount": 2224,
+      "wordCountPass": true,
+      "retryCount": 0,
+      "validation": {
+        "status": "passed",
+        "issues": [],
+        "checkedAt": "2026-11-18T16:43:02.742Z"
+      }
+    },
+    {
+      "chapterNumber": 2,
+      "title": "苔房",
+      "filePath": "第02章-苔房.md",
+      "status": "completed",
+      "wordCount": 2105,
+      "wordCountPass": true,
+      "retryCount": 0,
+      "validation": {
+        "status": "passed",
+        "issues": [],
+        "checkedAt": "2026-11-18T16:43:02.742Z"
+      }
+    },
+    {
+      "chapterNumber": 3,
+      "title": "养女",
+      "filePath": "第03章-养女.md",
+      "status": "completed",
+      "wordCount": 2133,
+      "wordCountPass": true,
+      "retryCount": 0,
+      "validation": {
+        "status": "passed",
+        "issues": [],
+        "checkedAt": "2026-11-18T16:43:02.742Z"
+      }
+    },
+    {
+      "chapterNumber": 4,
+      "title": "储氧库",
+      "filePath": "第04章-储氧库.md",
+      "status": "completed",
+      "wordCount": 2422,
+      "wordCountPass": true,
+      "retryCount": 0,
+      "validation": {
+        "status": "passed",
+        "issues": [],
+        "checkedAt": "2026-11-18T16:43:02.742Z"
+      }
+    },
+    {
+      "chapterNumber": 5,
+      "title": "第七号气闸",
+      "filePath": "第05章-第七号气闸.md",
+      "status": "completed",
+      "wordCount": 2263,
+      "wordCountPass": true,
+      "retryCount": 0,
+      "validation": {
+        "status": "passed",
+        "issues": [],
+        "checkedAt": "2026-11-18T16:43:02.742Z"
+      }
+    },
+    {
+      "chapterNumber": 6,
+      "title": "诱饵",
+      "filePath": "第06章-诱饵.md",
+      "status": "completed",
+      "wordCount": 2405,
+      "wordCountPass": true,
+      "retryCount": 0,
+      "validation": {
+        "status": "passed",
+        "issues": [],
+        "checkedAt": "2026-11-18T16:43:02.742Z"
+      }
+    },
+    {
+      "chapterNumber": 7,
+      "title": "四百一十二",
+      "filePath": "第07章-四百一十二.md",
+      "status": "completed",
+      "wordCount": 2165,
+      "wordCountPass": true,
+      "retryCount": 0,
+      "validation": {
+        "status": "passed",
+        "issues": [],
+        "checkedAt": "2026-11-18T16:43:02.742Z"
+      }
+    },
+    {
+      "chapterNumber": 8,
+      "title": "断氧",
+      "filePath": "第08章-断氧.md",
+      "status": "completed",
+      "wordCount": 2561,
+      "wordCountPass": true,
+      "retryCount": 0,
+      "validation": {
+        "status": "passed",
+        "issues": [],
+        "checkedAt": "2026-11-18T16:43:02.742Z"
+      }
+    },
+    {
+      "chapterNumber": 9,
+      "title": "周年",
+      "filePath": "第09章-周年.md",
+      "status": "completed",
+      "wordCount": 2846,
+      "wordCountPass": true,
+      "retryCount": 0,
+      "validation": {
+        "status": "passed",
+        "issues": [],
+        "checkedAt": "2026-11-18T16:43:02.742Z"
+      }
+    },
+    {
+      "chapterNumber": 10,
+      "title": "稀薄",
+      "filePath": "第10章-稀薄.md",
+      "status": "completed",
+      "wordCount": 2441,
+      "wordCountPass": true,
+      "retryCount": 0,
+      "validation": {
+        "status": "passed",
+        "issues": [],
+        "checkedAt": "2026-11-18T16:43:02.742Z"
+      }
+    }
+  ]
+}

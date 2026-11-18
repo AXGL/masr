@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-18T16:43:08.713340+00:00",
+  "preferences": {
+    "favoriteGenres": [
+      "科幻未来"
+    ],
+    "preferredProtagonist": "群像戏 / 阴暗腹黑 / 体制内叛徒",
+    "preferredPerspective": "多视角切换",
+    "preferredTone": "紧张刺激",
+    "typicalChapterCount": 10,
+    "styleReferences": [],
+    "dislikes": [],
+    "creationHistory": [
+      {
+        "title": "稀薄",
+        "genre": "科幻未来",
+        "chapters": 10,
+        "totalWords": 23565,
+        "path": "chinese-novelist/20261118-162841-稀薄",
+        "completedAt": "2026-11-18"
+      }
+    ]
+  }
+}
